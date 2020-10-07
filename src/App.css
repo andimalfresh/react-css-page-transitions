@@ -1,6 +1,19 @@
 /* GLOBAL */
-
-
+.App {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.pageImage {
+  height: 400px;
+  width: 100%;
+  object-fit: contain;
+  background-color: dimgray;
+}
+.pageText {
+  padding: 200px;
+  height: 400px
+}
 
 /* HOME */
 
