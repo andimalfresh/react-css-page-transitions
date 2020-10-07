@@ -3,7 +3,7 @@ import "../App.css";
 
 const homePage = () => {
   return (
-    <div>
+    <div className="page">
       <div className="pageImage">
         <img className="pageImage" src={require("./img/Mountains.png")} />
       </div>
